@@ -74,10 +74,9 @@
 
 ### 🔧 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel&theme=dark" />
-  <img src="./assets/ImageKit.io_Logo_1.png" height = "45" width="120" 
-  style="vertical-align:middle
-  style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel&theme=dark" height="50" />
+  &nbsp;&nbsp;
+  <img src="./assets/ImageKit.io_Logo_1.png" height="50"  width = "200";" />
 </p>
 
 
