@@ -99,7 +99,7 @@
         <li>✅ Role-based admin dashboard, moderation & usage analytics</li>
       </ul>
       <p>
-        <a href="https://postifyfronted.vercel.app" target="_blank">
+        <a href="https://postifyf.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Postify-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         <a href="https://github.com/rajatmaurya-cs/Postify-AI-Powered-Blogging-Platform" target="_blank">
