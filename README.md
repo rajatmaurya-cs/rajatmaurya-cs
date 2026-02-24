@@ -1,247 +1,127 @@
 
+
+
+
+
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rajat Maurya
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> , I'm <b>Rajat Maurya</b>
 </h1>
 
 <h3 align="center">🚀 Full Stack Developer | MERN + AI Enthusiast | CSE Student</h3>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer;Building+Production-Grade+Web+Apps+with AI APIs;Built+Postify+AI-Powered+Blogging+Platform;Practicing+Data+Structures+and+Algorithms;Exploring+AI+Integration+in+Apps" alt="Typing SVG" />
-
-  
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer;Building+Production-Grade+Web+Apps+with+AI+APIs;Built+Postify+AI-Powered+Blogging+Platform;Practicing+Data+Structures+and+Algorithms;Exploring+AI+Integration+in+Apps"
+    alt="Typing SVG"
+  />
 </p>
 
 
-## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="56" height="56"
+         style="border-radius:50%; background:#fff; padding:10px; border:1px solid #e5e7eb;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/rajatmaurya-cs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <a href="https://github.com/YOUR_GITHUB" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="56" height="56"
+         style="border-radius:50%; background:#fff; padding:10px; border:1px solid #e5e7eb;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rajatmaurya.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="56" height="56"
+         style="border-radius:50%; background:#fff; padding:10px; border:1px solid #e5e7eb;" />
   </a>
-</p>
-
-
-
-<h2>🛠️ Tech Stack & Tools</h2>
-
-<h3 align="center">💻 Core Programming</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart" />
-</p>
-
-<h3 align="center">🎨 Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
-
-<h3 align="center">⚙️ Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<h3 align="center">🗄️ Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</p>
-
-<h3 align="center">🔧 Version Control</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-
-
-<h3 align="center">🛠️ Tools & Environment</h3>
-
-<p align="center">
-   <img src="./assets/Apple MacOSX.svg" height="50"/>
-  <img src="./assets/Google Chrome.svg" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-  <img src="https://skillicons.dev/icons?i=idea" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
-  <img src="./assets/ImageKit.io_Logo_1.png" height="50" width = "100" />
-  
 </p>
 
 ---
 
-<h3 align="center">📌 Currently</h3>
+## 🧠 About Me
 
-<p align="center">
-  🔹 Building <b>production-grade MERN projects</b> for placements  
-  <br/>
-  🔹 Practicing <b>DSA on LeetCode</b>  
-  <br/>
-  🔹 Exploring <b>backend architecture, Redis, and system design</b>  
-  <br/>
-  🔹 Integrating <b>AI features</b> into full-stack applications  
-</p>
-
-
-
-
-
----
+- 🔹 Building **production-grade MERN projects** for placements  
+- 🔹 Solved **250+ Data Structures & Algorithms problems** on LeetCode  
+- 🔹 Learning **backend architecture, Redis, and system design**  
+- 🔹 Integrating **AI features** into full-stack apps  
 
 <p align="center">
   🚀 <i>Focused on building real-world, scalable, and AI-powered web applications.</i>
 </p>
 
+---
 
-## Project
-<style>
+## 🛠️ Tech Stack
 
-.project-section {
-  min-height: 60vh;         
-  display: flex;
-  justify-content: center;    
-  align-items: center;        
-}
+### 💻 Core Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart&theme=dark" />
+</p>
 
-.card {
-  --white: hsl(0, 0%, 100%);
-  --black: hsl(0, 0%, 10%);
-  --paragraph: hsl(0, 0%, 75%);
-  --line: hsl(0, 0%, 25%);
-  --primary: hsl(0, 0%, 70%);
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
+</p>
 
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
 
-  padding: 1rem;
-  width: 19rem;
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" />
+</p>
 
-  background-color: hsl(0, 0%, 12%);
-  background-image:
-    radial-gradient(at 88% 40%, hsl(0, 0%, 18%) 0px, transparent 85%),
-    radial-gradient(at 49% 30%, hsl(0, 0%, 16%) 0px, transparent 85%),
-    radial-gradient(at 14% 26%, hsl(0, 0%, 20%) 0px, transparent 85%),
-    radial-gradient(at 0% 64%, hsl(0, 0%, 30%) 0px, transparent 85%),
-    radial-gradient(at 41% 94%, hsl(0, 0%, 40%) 0px, transparent 85%),
-    radial-gradient(at 100% 99%, hsl(0, 0%, 25%) 0px, transparent 85%);
+### 🔧 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel&theme=dark" />
+  <img src="./assets/ImageKit.io_Logo_1.png" height = "45" width="120" 
+  style="vertical-align:middle
+  style="vertical-align:middle;" />
+</p>
 
-  border-radius: 1rem;
-  box-shadow: 0px -16px 24px 0px rgba(255, 255, 255, 0.15) inset;
-}
 
-.card__border {
-  overflow: hidden;
-  pointer-events: none;
-  position: absolute;
-  z-index: -1;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 
-  width: calc(100% + 2px);
-  height: calc(100% + 2px);
-  background-image: linear-gradient(0deg, hsl(0, 0%, 80%) -50%, hsl(0, 0%, 40%) 100%);
-  border-radius: 1rem;
-}
+---
 
-.card__border::before {
-  content: "";
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  width: 200%;
-  height: 10rem;
+## 🚀 Featured Project
 
-  transform: translate(-50%, -50%) rotate(0deg);
-  transform-origin: left;
-
-  background-image: linear-gradient(
-    0deg,
-    hsla(0, 0%, 100%, 0) 0%,
-    hsl(0, 0%, 85%) 40%,
-    hsl(0, 0%, 85%) 60%,
-    hsla(0, 0%, 40%, 0) 100%
-  );
-
-  animation: rotate 8s linear infinite;
-}
-
-@keyframes rotate {
-  to {
-    transform: translate(-50%, -50%) rotate(360deg);
-  }
-}
-
-.card h3 {
-  color: var(--white);
-  margin: 0;
-}
-
-.card p {
-  color: var(--paragraph);
-  font-size: 0.8rem;
-}
-
-.card ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.card li {
-  color: var(--white);
-  font-size: 0.8rem;
-  margin-bottom: 0.4rem;
-}
-
-.card button {
-  cursor: pointer;
-  padding: 0.5rem;
-  width: 100%;
-  border-radius: 9999px;
-  border: 0;
-  background: linear-gradient(0deg, hsl(0, 0%, 60%), hsl(0, 0%, 80%));
-  color: var(--black);
-  font-weight: 600;
-}
-</style>
-
-<section class="project-section">
-  <div class="card">
-    <div class="card__border"></div>
-    <h3>Postify</h3>
-    <p>AI Powered Blogging Platform</p>
-    <hr />
-    <ul>
-      <li>✔ AI content generation, summarization & quality reports</li>
-      <li>✔ Secure auth with JWT, Google OAuth & OTP verification</li>
-      <li>✔ Role-based admin dashboard, moderation & usage analytics</li>
-    </ul>
-
-  <a href="https://postifyf.vercel.app" target="_blank" style="text-decoration: none;">
-  <button>Visit Postify</button>
-  </a>
-
-  <a href="https://github.com/rajatmaurya-cs/Postify-AI-Powered-Blogging-Platform" target="_blank" style="text-decoration: none;">
-  <button>🔗 Source Code</button>
-  </a>
-  </div>
-</section>
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Postify — AI Powered Blogging Platform</h3>
+      <p>
+        A production-grade MERN blogging platform with AI features, strong authentication, moderation, and analytics.
+      </p>
+      <ul>
+        <li>✅ AI content generation, summarization & quality reports</li>
+        <li>✅ Secure auth (JWT, Google OAuth, OTP verification)</li>
+        <li>✅ Role-based admin dashboard, moderation & usage analytics</li>
+      </ul>
+      <p>
+        <a href="https://postifyfronted.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Postify-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <a href="https://github.com/rajatmaurya-cs/Postify-AI-Powered-Blogging-Platform" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <img
+        src="./assets/Postify.png"
+        alt="Postify Preview"
+        width="100%"
+      />
+   
+   
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Contribution Activity
 
 <p align="center">
- 
- ![Snake animation](https://github.com/rajatmaurya-cs/rajatmaurya-cs/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github.com/rajatmaurya-cs/rajatmaurya-cs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
