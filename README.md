@@ -24,12 +24,12 @@
          style="border-radius:50%; background:#fff; padding:10px; border:1px solid #e5e7eb;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/YOUR_GITHUB" target="_blank">
+  <a href="https://github.com/rajatmaurya-cs" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="56" height="56"
          style="border-radius:50%; background:#fff; padding:10px; border:1px solid #e5e7eb;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:rajatmaurya.dev@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="56" height="56"
          style="border-radius:50%; background:#fff; padding:10px; border:1px solid #e5e7eb;" />
   </a>
