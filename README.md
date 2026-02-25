@@ -54,7 +54,7 @@
 
 ### 💻 Core Programming
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,&theme=dark" />
 </p>
 
 ### 🎨 Frontend
