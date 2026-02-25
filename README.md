@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="56" height="56"
          style="border-radius:50%; background:#fff; padding:10px; border:1px solid #e5e7eb;" />
   </a>
