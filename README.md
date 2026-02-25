@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer;Building+Production-Grade+Web+Apps+with+AI+APIs;Built+Postify+AI-Powered+Blogging+Platform;Practicing+Data+Structures+and+Algorithms;Exploring+AI+Integration+in+Apps"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer;Building+Production-Grade+Web+Apps+with+AI+Integration;Built+Postify+AI-Powered+Blogging+Platform;Practicing+Data+Structures+and+Algorithms;Exploring+AI+Integration+in+Apps"
     alt="Typing SVG"
   />
 </p>
