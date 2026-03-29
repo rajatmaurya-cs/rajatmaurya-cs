@@ -1,9 +1,9 @@
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> , I'm <b>Rajat Maurya</b>
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm <code>Rajat Maurya</code>
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | MERN + AI Enthusiast | CSE Student</h3>
+<h3 align="center">🚀 Full Stack Engineer | MERN + AI Systems Builder</h3>
 
 <p align="center">
   <img
@@ -32,16 +32,15 @@
 </p>
 
 ---
+## ✦ About Me
 
-## 🧠 About Me
-
-- 🔹 Building **production-grade MERN projects** for placements  
-- 🔹 Solved **250+ Data Structures & Algorithms problems** on LeetCode  
-- 🔹 Learning **backend architecture, Redis, and system design**  
-- 🔹 Integrating **AI features** into full-stack apps  
+- 🔹 Building **production-grade full-stack MERN applications** with real-world architecture  
+- 🔹 Solved **250+ LeetCode problems** to strengthen problem-solving and coding skills  
+- 🔹 Learning **backend engineering, Redis, caching, and system design**  
+- 🔹 Integrating **AI-powered features** into scalable web applications  
 
 <p align="center">
-  🚀 <i>Focused on building real-world, scalable, and AI-powered web applications.</i>
+  🚀 <i>Focused on building secure, scalable, and real-world AI-powered products.</i>
 </p>
 
 ---
@@ -76,6 +75,74 @@
 </p>
 
 
+
+---
+
+## ✦ Engineering Focus
+
+<p align="center">
+  <i>Focused on mastering the intersection of full-stack engineering, scalable backend architecture, AI-powered products, and high-level problem solving.</i>
+</p>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{
+  'primaryColor':'#f8fafc',
+  'primaryTextColor':'#111827',
+  'primaryBorderColor':'#2563eb',
+  'lineColor':'#64748b',
+  'secondaryColor':'#e0f2fe',
+  'tertiaryColor':'#ede9fe',
+  'background':'#ffffff'
+}}}%%
+mindmap
+  root((Rajat Maurya<br/>Full Stack Engineer))
+
+    Frontend Engineering
+      React.js
+      Next.js for SSR
+      React Query
+      Infinite Query Pagination
+      UI Performance Optimization
+      Responsive Web Applications
+
+    Backend Engineering
+      Node.js
+      Express.js
+      REST API Development
+      JWT-Based Authentication
+      Access and Refresh Token Rotation
+      Secure Authentication Flows
+      Redis Caching
+      Redis Blacklisting
+      Rate Limiting
+      Request Throttling
+
+    Database Engineering
+      MongoDB
+      Schema Design
+      Data Modeling
+      Query Optimization
+      CRUD Systems
+
+    AI Product Development
+      LLM API Integration
+      AI Content Generation
+      AI Summarization
+      Automation Features
+
+    System Design
+      Scalable Architecture
+      Production Thinking
+      Performance Optimization
+      Reliability
+      Secure Backend Systems
+
+    Problem Solving
+      250+ LeetCode Problems
+      Graphs
+      Dynamic Programming
+      
+```
 
 ---
 
