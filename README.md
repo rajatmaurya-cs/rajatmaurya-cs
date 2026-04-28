@@ -1,41 +1,49 @@
-<table>
+<table width="100%" height="100%">
 <tr>
-<td width="65%" valign="middle">
 
-<h1>
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm <code>Rajat Maurya</code>
+<td width="60%" align="center" valign="middle">
+
+<h1 align="center">
+  Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, 
+  I'm <code>Rajat Maurya</code>
 </h1>
 
-<h3>🚀 Full Stack Engineer | MERN + AI Systems Builder</h3>
+<h3 align="center">
+🚀 Full Stack Engineer | MERN + AI Systems Builder
+</h3>
 
+<p align="center">
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1500&color=36BCF7&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Full+Stack+MERN+Developer;Building+Production-Grade+Web+Apps+with+AI+Integration;Creator+of+Postify+-+AI+Powered+Blogging+Platform;Strong+in+DSA+and+Problem+Solving;Passionate+about+Scalable+Web+Systems+and+AI"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1500&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&height=65&lines=Full+Stack+MERN+Developer;Building+Production-Grade+Web+Apps+with+AI+Integration;Creator+of+Postify+-+AI+Powered+Blogging+Platform;Strong+in+DSA+and+Problem+Solving;Passionate+about+Scalable+Web+Systems+and+AI"
   alt="Typing SVG"
 />
+</p>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rajatmaurya-cs">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="100" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:rajatmaurya.dev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="100" />
   </a>
 </p>
 
 </td>
 
-<td width="35%" align="right">
+<td width="40%" align="center" valign="middle">
 
-<img src="./assets/Hero.png" width="420" alt="Hero Image" />
+<img src="./assets/Hero.png" width="380" alt="Hero Image" />
 
 </td>
+
 </tr>
 </table>
 
