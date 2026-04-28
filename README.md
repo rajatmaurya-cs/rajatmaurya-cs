@@ -33,7 +33,7 @@
 
 <td width="40%" align="right">
 
-<img src="./assets/Hero.png" width="420" alt="Hero Image" />
+<img src="./assets/Hero4.png" width="1000"  height = "500" alt="Hero Image" />
 
 </td>
 </tr>
