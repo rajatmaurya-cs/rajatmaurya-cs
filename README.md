@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="60%" valign="center">
+<td width="65%" valign="middle">
 
 <h1>
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm <code>Rajat Maurya</code>
@@ -9,7 +9,7 @@
 <h3>🚀 Full Stack Engineer | MERN + AI Systems Builder</h3>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=false&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Production-Grade+Web+Apps+with+AI+Integration;Creator+of+Postify+-+AI-Powered+Blogging+Platform;Strong+in+DSA+and+Problem+Solving;Passionate+about+Scalable+Web+Systems+and+AI"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1500&color=36BCF7&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Full+Stack+MERN+Developer;Building+Production-Grade+Web+Apps+with+AI+Integration;Creator+of+Postify+-+AI+Powered+Blogging+Platform;Strong+in+DSA+and+Problem+Solving;Passionate+about+Scalable+Web+Systems+and+AI"
   alt="Typing SVG"
 />
 
@@ -31,7 +31,7 @@
 
 </td>
 
-<td width="40%" align="right">
+<td width="35%" align="right">
 
 <img src="./assets/Hero.png" width="420" alt="Hero Image" />
 
