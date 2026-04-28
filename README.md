@@ -2,7 +2,7 @@
 <tr>
 <td width="60%" valign="center">
 
-<h1>
+<h1 align = "center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm <code>Rajat Maurya</code>
 </h1>
 
@@ -33,7 +33,7 @@
 
 <td width="40%" align="right">
 
-<img src="./assets/Hero4.png" width="1000"  height = "500" alt="Hero Image" />
+<img src="./assets/Hero6.png" width="1000"  height = "500" alt="Hero Image" />
 
 </td>
 </tr>
