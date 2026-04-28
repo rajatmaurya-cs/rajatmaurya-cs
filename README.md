@@ -1,35 +1,47 @@
+<table>
+<tr>
+<td width="60%" valign="center">
 
-<h1 align="center">
+<h1>
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm <code>Rajat Maurya</code>
 </h1>
 
-<h3 align="center">🚀 Full Stack Engineer | MERN + AI Systems Builder</h3>
+<h3>🚀 Full Stack Engineer | MERN + AI Systems Builder</h3>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1200&lines=Full+Stack+MERN+Developer;Building+Production-Grade+Web+Apps+with+AI+Integration;Creator+of+Postify+-+AI-Powered+Blogging+Platform;Strong+in+DSA+and+Problem+Solving;Passionate+about+Scalable+Web+Systems+and+AI"
-    alt="Typing SVG"
-  />
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=false&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Production-Grade+Web+Apps+with+AI+Integration;Creator+of+Postify+-+AI-Powered+Blogging+Platform;Strong+in+DSA+and+Problem+Solving;Passionate+about+Scalable+Web+Systems+and+AI"
+  alt="Typing SVG"
+/>
 
-
+<br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="56" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
   </a>
-    &nbsp;  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rajatmaurya-cs">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="56" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" />
   </a>
-    &nbsp;  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:rajatmaurya.dev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="56" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
   </a>
 </p>
 
+</td>
+
+<td width="40%" align="right">
+
+<img src="./assets/Hero.png" width="420" alt="Hero Image" />
+
+</td>
+</tr>
+</table>
+
 ---
-## ✦ About Me
+
+## About Me
 
 - 🔹 Building **production-grade full-stack MERN applications** with real-world architecture  
 - 🔹 Solved **250+ LeetCode problems** to strengthen problem-solving and coding skills  
