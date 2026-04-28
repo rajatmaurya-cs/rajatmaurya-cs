@@ -15,19 +15,16 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="56" height="56"
-         style="border-radius:50%; background:#fff; padding:10px; border:1px solid #e5e7eb;" />
+  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="56" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/rajatmaurya-cs" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="56" height="56"
-         style="border-radius:50%; background:#fff; padding:10px; border:1px solid #e5e7eb;" />
+    &nbsp;  &nbsp;
+  <a href="https://github.com/rajatmaurya-cs">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="56" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;  &nbsp;
   <a href="mailto:rajatmaurya.dev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="56" height="56"
-         style="border-radius:50%; background:#fff; padding:10px; border:1px solid #e5e7eb;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="56" />
   </a>
 </p>
 
@@ -54,7 +51,7 @@
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,bootstrap,tailwind&theme=dark" />
 </p>
 
 ### ⚙️ Backend
