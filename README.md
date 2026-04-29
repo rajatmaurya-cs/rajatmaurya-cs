@@ -17,7 +17,7 @@
   <!-- Row 2: Title + Typing + Socials + second.png -->
   <tr>
     <td align="center" valign="middle" width="58%" style="padding: 20px; border: 1px solid #30363d;">
-      <h3>🚀 Full Stack Engineer | MERN + AI Systems Builder</h3>
+      <h3>🚀 Full Stack MERN Developer | AI-Powered Systems Builder</h3>
      <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+MERN+Developer;Building+AI+Powered+Production-Grade+Web+Apps;Creator+of+Postify+-+AI-Powered+Blogging+Platform;Strong+in+DSA+and+Problem+Solving;Passionate+about+Scalable+Web+Systems"
     style="max-width:100%; height:auto;"
