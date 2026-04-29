@@ -1,55 +1,64 @@
-<table>
+<!-- Section 1: Intro + Hero7 -->
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="60%" valign="center">
+<td align="center" valign="middle" width="58%">
 
-<h1 align = "center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm <code>Rajat Maurya</code>
+<h1>
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />, I'm <code>Rajat Maurya</code>
 </h1>
-
-<h3>🚀 Full Stack Engineer | MERN + AI Systems Builder</h3>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=false&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Production-Grade+Web+Apps+with+AI+Integration;Creator+of+Postify+-+AI-Powered+Blogging+Platform;Strong+in+DSA+and+Problem+Solving;Passionate+about+Scalable+Web+Systems+and+AI"
-  alt="Typing SVG"
-/>
-
-<br><br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/rajatmaurya-cs">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rajatmaurya.dev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
-  </a>
-</p>
 
 </td>
 
-<td width="40%" align="right">
+<td align="center" valign="middle" width="42%">
 
-<img src="./assets/Hero6.png" width="1000"  height = "500" alt="Hero Image" />
+<img src="./assets/Hero7.png" width="340" alt="Hero Image">
 
 </td>
 </tr>
 </table>
 
----
+<!-- Section 2: Title + Typing + Socials + second.png -->
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" valign="middle" width="58%">
 
-## About Me
+### 🚀 Full Stack Engineer | MERN + AI Systems Builder
 
-- 🔹 Building **production-grade full-stack MERN applications** with real-world architecture  
-- 🔹 Solved **250+ LeetCode problems** to strengthen problem-solving and coding skills  
-- 🔹 Learning **backend engineering, Redis, caching, and system design**  
-- 🔹 Integrating **AI-powered features** into scalable web applications  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+MERN+Developer;Building+Production-Grade+Web+Apps+with+AI+Integration;Creator+of+Postify+-+AI-Powered+Blogging+Platform;Strong+in+DSA+and+Problem+Solving;Passionate+about+Scalable+Web+Systems+and+AI" />
+
+<br><br>
 
 <p align="center">
-  🚀 <i>Focused on building secure, scalable, and real-world AI-powered products.</i>
+<a href="https://www.linkedin.com/in/rajat-maurya-3a172331b/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50"></a>&nbsp;&nbsp;
+<a href="https://github.com/rajatmaurya-cs"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50"></a>&nbsp;&nbsp;
+<a href="mailto:rajatmaurya.dev@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"></a>
+</p>
+
+</td>
+
+<td align="center" valign="middle" width="42%">
+
+<img src="./assets/second.png" width="320" alt="Second Image">
+
+</td>
+</tr>
+</table>
+
+
+
+
+---
+## About Me
+
+<ul>
+<li>🔹 Building <b>production-grade full-stack MERN applications</b> with real-world architecture</li>
+<li>🔹 Solved <b>250+ LeetCode problems</b> to strengthen problem-solving and coding skills</li>
+<li>🔹 Learning <b>backend engineering, Redis, caching, and system design</b></li>
+<li>🔹 Integrating <b>AI-powered features</b> into scalable web applications</li>
+</ul>
+
+<p align="center">
+  🚀 <i><b>Focused on building secure, scalable, and real-world AI-powered products.</b></i>
 </p>
 
 ---
