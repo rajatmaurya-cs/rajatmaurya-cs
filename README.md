@@ -4,9 +4,8 @@
 
 # 👋 Hi, I'm **Rajat Maurya**
 
-### ⚡ Full Stack Engineer | Frontend Specialist | AI Systems Builder
+### ⚡ Backend Engineer | Event-Driven Systems | Kafka, Redis & BullMQ
 
-I build scalable, high-performance web applications, distributed backend architectures, and AI-driven platforms. Focused on **Next.js**, **React**, **Node.js**, **Redis**, and **Kafka**.
 
 - 💼 **Frontend Developer Intern** @ **SmallFare**
 - 🚀 Creator of **Veyra** — AI-Powered Creator Platform
@@ -269,13 +268,4 @@ mindmap
 
 ---
 
-<div align="center">
 
-  <!-- Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=rajatmaurya-cs&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-  <br/><br/>
-
-  <i>Designed with ❤️ for Rajat Maurya</i>
-
-</div>
