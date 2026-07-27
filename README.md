@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** with expertise in **backend engineering**, **distributed systems**, and **full-stack development**. I build scalable, secure, and high-performance applications using **Node.js**, **Express.js**, **Next.js**, **React**, **PostgreSQL**, **Redis**, **Kafka**, and **BullMQ**. My work focuses on designing reliable APIs, event-driven architectures, background job processing, authentication systems, and modern web applications with an emphasis on scalability, reliability, and performance.
+I am a passionate **Full Stack Engineer** and **Frontend Developer** with strong expertise in building scalable, secure, and performant production applications. Focused on **Next.js**, **React**, **Node.js**, **Redis**, and **AI-powered architectures**, I build systems engineered for high traffic and optimal user experience.
 
 - 🎯 **Core Strengths:** Secure Authentication Systems • Testing & QA • Rate Limiting & Caching • AI Content Moderation Pipelines • Role-Based Dashboards • Payment Gateway Integration • Background Job Processing
 - 💼 **Frontend Developer Intern** at **SmallFare** (Apr 2026 – Jul 2026)
