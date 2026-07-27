@@ -1,61 +1,20 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/rajatmaurya-cs">
-  <img align="right" src="./assets/Hero7.png" width="350" alt="Developer Illustration" />
-</a>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; Hey! I'm **Rajat Maurya**
-
-**`Full Stack Engineer · Frontend Specialist · AI Systems Builder`**
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=6C63FF&multiline=false&width=420&height=30&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-- 🏢 &nbsp; **Frontend Developer Intern** @ **SmallFare**
-- 🚀 &nbsp; Creator of **Veyra** — AI-Powered Creator Platform
-- 🛡️ &nbsp; Enterprise Security (JWT, OAuth 2.0, Redis)
-- ⚙️ &nbsp; Async Architecture (Kafka, BullMQ)
-- 🧩 &nbsp; **250+ DSA Problems** on LeetCode
-
-<br/>
-
-<p align="left">
-  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail SVG" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn SVG" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub SVG" />
-  </a>
-</p>
-
-<br clear="both"/>
-
-<!-- ─── GitHub Stats ─── -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajatmaurya-cs&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" height="160" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rajatmaurya-cs&theme=github-dark-blue&hide_border=true&background=00000000&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff&sideLabels=c9d1d9&dates=8b949e" height="160" alt="GitHub Streak" />
+  <h1>Hi, I'm Rajat Maurya 👋</h1>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatmaurya-cs&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6c63ff&text_color=c9d1d9&langs_count=8" height="145" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=rajatmaurya-cs&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" alt="GitHub Trophies"/>
-
-<br/>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=rajatmaurya-cs&color=6c63ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <p align="center">
+    <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
+      <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail SVG" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn SVG" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub SVG" />
+    </a>
+  </p>
 
 </div>
 
@@ -67,60 +26,17 @@
 
 I am a passionate **Full Stack Engineer** and **Frontend Developer** with strong expertise in building scalable, secure, and performant production applications. Focused on **Next.js**, **React**, **Node.js**, **Redis**, and **AI-powered architectures**, I build systems engineered for high traffic and optimal user experience.
 
-- 💼 **Frontend Developer Intern** at **SmallFare** (Apr 2026 – Jul 2026)
-- 🚀 Created **Veyra**, an AI-Powered Creator Platform with 2-layer moderation & subscriptions
-- 🛡️ Specialized in **Enterprise Security** (JWT rotation, Redis blacklisting, OAuth 2.0, Rate Limiting)
-- ⚙️ Deep understanding of **Async Architecture** (Kafka, BullMQ, Background Job Processing)
-- 🧩 **250+ DSA Problems Solved** on LeetCode (Arrays, Trees, Graphs, DP)
+### ⚡ Technical Skills & Core Strengths
+
+- 💻 **Languages:** C++, JavaScript (ES6), TypeScript
+- ⚙️ **Backend:** Node.js, Express.js, Kafka, Redis, BullMQ, JWT (rotation & blacklisting), Google OAuth 2.0
+- 🗄️ **Databases:** MongoDB, PostgreSQL (Prisma)
+- 🌐 **Frontend:** React.js, Next.js (SSR/SSG/ISR), React Query (Infinite Queries), Tailwind CSS
+- 🧪 **Testing:** Vitest, Supertest, Unit Testing, Integration Testing, API Testing, Mocking
+- 🛠️ **DevOps:** Docker, GitHub Actions (CI), Git
+- 🎯 **Core Strengths:** Secure Authentication Systems • Testing & QA • Rate Limiting & Caching • AI Content Moderation Pipelines • Role-Based Dashboards • Payment Gateway Integration • Background Job Processing
 
 <br/>
-
----
-
-## 🛠️ Languages, Skills & Tools
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts&theme=dark" alt="Languages SVGs" />
-</p>
-
-### 🌐 Frontend Engineering
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend SVGs" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query SVG Badge"/>
-</p>
-
-### ⚙️ Backend & Systems Architecture
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,kafka,redis&theme=dark" alt="Backend SVGs" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/BullMQ-E33D36?style=for-the-badge&logo=bull&logoColor=white" alt="BullMQ SVG Badge"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT SVG Badge"/>
-  <img src="https://img.shields.io/badge/Google_OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OAuth SVG Badge"/>
-</p>
-
-### 🗄️ Databases & ORM
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" alt="Databases SVGs" />
-</p>
-
-### 🧪 Testing & QA
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vitest,jest&theme=dark" alt="Testing SVGs" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=jest&logoColor=white" alt="Supertest SVG Badge"/>
-  <img src="https://img.shields.io/badge/Unit_Testing-0A85EA?style=for-the-badge&logo=testcafe&logoColor=white" alt="Unit Testing SVG Badge"/>
-  <img src="https://img.shields.io/badge/Integration_Testing-4CAF50?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Integration Testing SVG Badge"/>
-</p>
-
-### 🛠️ DevOps, Infrastructure & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,postman,vscode,vercel&theme=dark" alt="DevOps SVGs" />
-</p>
 
 <br/>
 
