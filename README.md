@@ -1,14 +1,10 @@
-<table>
-<tr>
-<td width="55%" valign="top">
+<a href="https://github.com/rajatmaurya-cs">
+  <img align="right" src="./assets/coding.svg" width="480" alt="Coding Illustration" style="margin-left: 20px;" />
+</a>
 
 <h1 style="border: none;">👋 Hi, I'm <b>Rajat Maurya</b></h1>
 
-<h3>
-Backend Engineer <br/>
-Event-Driven Systems <br/>
-Kafka, Redis & BullMQ
-</h3>
+###  • Backend Engineer <br/> • Event-Driven Systems <br/> • Kafka, Redis & BullMQ
 
 <br/>
 
@@ -19,33 +15,10 @@ Kafka, Redis & BullMQ
 <br/>
 
 <p align="left">
-  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
-    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" 
-    style="border-radius:16px; border:2px solid #38bdf8; padding:6px; background:#0d1117; margin-right:22px;" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52"
-    style="border-radius:16px; border:2px solid #38bdf8; padding:6px; background:#0d1117; margin-right:22px;" />
-  </a>
-
-  <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile">
-    <img src="https://skillicons.dev/icons?i=github" width="52" height="52"
-    style="border-radius:16px; border:2px solid #38bdf8; padding:6px; background:#0d1117; margin-right:22px;" />
-  </a>
+  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat"><img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="LinkedIn" /></a>
+  <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile"><img src="https://skillicons.dev/icons?i=github" width="52" height="52" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="GitHub" /></a>
 </p>
-
-</td>
-
-<td width="45%" valign="top" align="right">
-
-<a href="https://github.com/rajatmaurya-cs">
-  <img src="./assets/coding.svg" width="480" alt="Coding Illustration" />
-</a>
-
-</td>
-</tr>
-</table>
 
 <br clear="both"/>
 
