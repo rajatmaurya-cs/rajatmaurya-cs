@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm **Rajat Maurya**
 
-### ⚡ Backend Engineer | Event-Driven Systems <br/> ⚙️ Kafka, Redis & BullMQ
+### ⚡ Backend Engineer <br/> ⚡ Event-Driven Systems <br/> ⚙️ Kafka, Redis & BullMQ
 
 <br/>
 
