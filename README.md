@@ -1,37 +1,16 @@
 <div align="center">
 
-  <h1>Hi, I'm Rajat Maurya <img src="https://raw.githubusercontent.com/MartinLaxenaire/gify/master/waving-hand.gif" width="34" alt="waving hand"></h1>
+  <h1>Hi, I'm Rajat Maurya 👋</h1>
 
-  <h3>⚡ Full Stack Engineer | Frontend Specialist | AI Systems Builder</h3>
-
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=45&lines=Building+Scalable+Full-Stack+%26+AI+Architectures;Frontend+Developer+Intern+%40+SmallFare;Creator+of+Veyra+—+Modern+AI+Creator+Platform;Specialized+in+Next.js%2C+React%2C+Node.js+%26+Redis;250%2B+DSA+Problems+Solved+on+LeetCode" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Status & Highlight Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Open_to_Work-Full_Stack_%26_Frontend-00C853?style=flat-square&logo=github&logoColor=white" alt="Status" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/LeetCode-250%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Focus-Next.js_%7C_Node.js_%7C_AI-6366F1?style=flat-square&logo=react&logoColor=white" alt="Focus" />
-  </p>
-
-  <br/>
-
-  <!-- Enhanced Social Media Icons -->
   <p align="center">
     <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
-      <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" style="border-radius: 12px; margin: 0 8px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5));" alt="Gmail SVG" />
+      <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin: 0 8px;" alt="Gmail SVG" />
     </a>
     <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" style="border-radius: 12px; margin: 0 8px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5));" alt="LinkedIn SVG" />
+      <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin: 0 8px;" alt="LinkedIn SVG" />
     </a>
     <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" style="border-radius: 12px; margin: 0 8px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.5));" alt="GitHub SVG" />
+      <img src="https://skillicons.dev/icons?i=github" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin: 0 8px;" alt="GitHub SVG" />
     </a>
   </p>
 
@@ -280,4 +259,13 @@ mindmap
 
 ---
 
+<div align="center">
 
+  <!-- Visitor Count -->
+  <img src="https://komarev.com/ghpvc/?username=rajatmaurya-cs&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+  <br/><br/>
+
+  <i>Designed with ❤️ for Rajat Maurya</i>
+
+</div>
