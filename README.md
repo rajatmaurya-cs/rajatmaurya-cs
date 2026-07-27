@@ -1,46 +1,32 @@
-<!-- ──────────── ANIMATED HEADER ──────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Rajat%20Maurya&fontSize=52&fontColor=E0E7FF&animation=fadeIn&fontAlignY=60&desc=Full%20Stack%20Engineer%20%7C%20AI%20Systems%20Builder&descSize=17&descAlignY=80&descAlign=50" width="100%" alt="Banner"/>
-
-<!-- ──────────── TWO-COLUMN HERO ──────────── -->
-
-<img align="right" src="./assets/coding.svg" width="380" alt="Coding Illustration" />
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there, I'm **Rajat Maurya**
-
-**`Full Stack Engineer · Frontend Specialist · AI Systems Builder`**
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7DD3FC&width=500&height=32&lines=Building+Scalable+Production+Applications+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+Redis+%7C+Kafka;Enterprise+Auth+%7C+JWT+%7C+OAuth+2.0+%7C+BullMQ;AI+Content+Moderation+%7C+Rate+Limiting+%7C+Caching;250%2B+DSA+Problems+Solved+on+LeetCode+%F0%9F%A7%A9" alt="Typing SVG" />
+<a href="https://github.com/rajatmaurya-cs">
+  <img align="right" src="./assets/coding.svg" width="380" alt="Coding Illustration" />
 </a>
 
-<br/>
+# 👋 Hi, I'm **Rajat Maurya**
 
-- 🏢 &nbsp;**Frontend Developer Intern** @ **SmallFare** *(Apr–Jul 2026)*
-- 🚀 &nbsp;Creator of **Veyra** — AI-Powered Creator Platform
-- 🛡️ &nbsp;Enterprise Security · JWT Rotation · OAuth 2.0 · Redis
-- ⚙️ &nbsp;Kafka · BullMQ · Background Job Processing
-- 🧩 &nbsp;**250+ DSA Problems Solved** on LeetCode
+### ⚡ Full Stack Engineer | Frontend Specialist | AI Systems Builder
+
+I build scalable, high-performance web applications, distributed backend architectures, and AI-driven platforms. Focused on **Next.js**, **React**, **Node.js**, **Redis**, and **Kafka**.
+
+- 💼 **Frontend Developer Intern** @ **SmallFare**
+- 🚀 Creator of **Veyra** — AI-Powered Creator Platform
+- 🧩 **250+ DSA Problems Solved** on LeetCode
 
 <br/>
 
 <p align="left">
   <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
-    <img src="https://skillicons.dev/icons?i=gmail" width="44" height="44" style="border-radius:10px;margin-right:10px;filter:drop-shadow(0 4px 8px rgba(0,0,0,0.5));" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="44" height="44" style="border-radius: 10px; margin-right: 8px;" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" style="border-radius:10px;margin-right:10px;filter:drop-shadow(0 4px 8px rgba(0,0,0,0.5));" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" style="border-radius: 10px; margin-right: 8px;" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="44" height="44" style="border-radius:10px;margin-right:10px;filter:drop-shadow(0 4px 8px rgba(0,0,0,0.5));" alt="GitHub" />
+  <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile">
+    <img src="https://skillicons.dev/icons?i=github" width="44" height="44" style="border-radius: 10px; margin-right: 8px;" alt="GitHub" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rajatmaurya-cs&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
 <br clear="both"/>
-
-<!-- ──────────── FOOTER WAVE ──────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=80&section=footer" width="100%" alt="Wave"/>
 
 ---
 
