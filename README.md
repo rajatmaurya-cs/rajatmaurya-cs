@@ -14,15 +14,9 @@
 <br/>
 
 <p align="left">
-  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
-    <img src="https://skillicons.dev/icons?i=gmail" width="44" height="44" style="border-radius: 10px; margin-right: 8px;" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" style="border-radius: 10px; margin-right: 8px;" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile">
-    <img src="https://skillicons.dev/icons?i=github" width="44" height="44" style="border-radius: 10px; margin-right: 8px;" alt="GitHub" />
-  </a>
+  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat"><img src="https://skillicons.dev/icons?i=gmail" width="44" height="44" style="border-radius: 14px; border: 2px solid #30363d; padding: 4px; background: #161b22; margin-right: 18px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" style="border-radius: 14px; border: 2px solid #30363d; padding: 4px; background: #161b22; margin-right: 18px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" alt="LinkedIn" /></a>
+  <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile"><img src="https://skillicons.dev/icons?i=github" width="44" height="44" style="border-radius: 14px; border: 2px solid #30363d; padding: 4px; background: #161b22; margin-right: 18px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" alt="GitHub" /></a>
 </p>
 
 <br clear="both"/>
