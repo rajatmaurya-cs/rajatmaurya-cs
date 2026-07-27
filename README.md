@@ -1,8 +1,6 @@
 <a href="https://github.com/rajatmaurya-cs">
-  <img align="right" src="./assets/coding.svg" width="580" alt="Coding Illustration" style="margin-left: 20px;" />
+  <img align="right" src="./assets/coding.svg" width="540" alt="Coding Illustration" style="margin-left: 20px;" />
 </a>
-
-<br/>
 
 # 👋 Hi, I'm **Rajat Maurya**
 
