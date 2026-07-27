@@ -26,17 +26,61 @@
 
 I am a passionate **Full Stack Engineer** and **Frontend Developer** with strong expertise in building scalable, secure, and performant production applications. Focused on **Next.js**, **React**, **Node.js**, **Redis**, and **AI-powered architectures**, I build systems engineered for high traffic and optimal user experience.
 
-### ⚡ Technical Skills & Core Strengths
-
-- 💻 **Languages:** C++, JavaScript (ES6), TypeScript
-- ⚙️ **Backend:** Node.js, Express.js, Kafka, Redis, BullMQ, JWT (rotation & blacklisting), Google OAuth 2.0
-- 🗄️ **Databases:** MongoDB, PostgreSQL (Prisma)
-- 🌐 **Frontend:** React.js, Next.js (SSR/SSG/ISR), React Query (Infinite Queries), Tailwind CSS
-- 🧪 **Testing:** Vitest, Supertest, Unit Testing, Integration Testing, API Testing, Mocking
-- 🛠️ **DevOps:** Docker, GitHub Actions (CI), Git
 - 🎯 **Core Strengths:** Secure Authentication Systems • Testing & QA • Rate Limiting & Caching • AI Content Moderation Pipelines • Role-Based Dashboards • Payment Gateway Integration • Background Job Processing
+- 💼 **Frontend Developer Intern** at **SmallFare** (Apr 2026 – Jul 2026)
+- 🚀 Created **Veyra**, an AI-Powered Creator Platform with 2-layer moderation & subscriptions
+- 🛡️ Specialized in **Enterprise Security** (JWT rotation, Redis blacklisting, OAuth 2.0, Rate Limiting)
+- ⚙️ Deep understanding of **Async Architecture** (Kafka, BullMQ, Background Job Processing)
+- 🧩 **250+ DSA Problems Solved** on LeetCode (Arrays, Trees, Graphs, DP)
 
 <br/>
+
+---
+
+## 🛠️ Languages, Skills & Tools
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts&theme=dark" alt="Languages SVGs" />
+</p>
+
+### 🌐 Frontend Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend SVGs" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query SVG Badge"/>
+</p>
+
+### ⚙️ Backend & Systems Architecture
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,kafka,redis&theme=dark" alt="Backend SVGs" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/BullMQ-E33D36?style=for-the-badge&logo=bull&logoColor=white" alt="BullMQ SVG Badge"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT SVG Badge"/>
+  <img src="https://img.shields.io/badge/Google_OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OAuth SVG Badge"/>
+</p>
+
+### 🗄️ Databases & ORM
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" alt="Databases SVGs" />
+</p>
+
+### 🧪 Testing & QA
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vitest,jest&theme=dark" alt="Testing SVGs" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=jest&logoColor=white" alt="Supertest SVG Badge"/>
+  <img src="https://img.shields.io/badge/Unit_Testing-0A85EA?style=for-the-badge&logo=testcafe&logoColor=white" alt="Unit Testing SVG Badge"/>
+  <img src="https://img.shields.io/badge/Integration_Testing-4CAF50?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Integration Testing SVG Badge"/>
+</p>
+
+### 🛠️ DevOps, Infrastructure & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,postman,vscode,vercel&theme=dark" alt="DevOps SVGs" />
+</p>
 
 <br/>
 
