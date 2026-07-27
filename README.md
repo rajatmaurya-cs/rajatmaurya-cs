@@ -171,15 +171,20 @@ I am a passionate **Full Stack Engineer** and **Frontend Developer** with strong
 ## 🗺️ Engineering Focus & System Architecture
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{
-  'primaryColor':'#0d1117',
-  'primaryTextColor':'#58a6ff',
-  'primaryBorderColor':'#1f6feb',
-  'lineColor':'#8b949e',
-  'secondaryColor':'#161b22',
-  'tertiaryColor':'#21262d',
-  'background':'#0d1117'
-}}}%%
+%%{init: {
+  'theme': 'dark',
+  'themeVariables': {
+    'lineColor': '#58a6ff',
+    'mindmapLineColor': '#58a6ff',
+    'primaryColor': '#1f6feb',
+    'primaryTextColor': '#ffffff',
+    'primaryBorderColor': '#58a6ff',
+    'secondaryColor': '#238636',
+    'secondaryTextColor': '#ffffff',
+    'tertiaryColor': '#8957e5',
+    'tertiaryTextColor': '#ffffff'
+  }
+}}%%
 mindmap
   root((Rajat Maurya<br/>Full Stack Engineer))
 
