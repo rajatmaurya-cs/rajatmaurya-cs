@@ -4,15 +4,13 @@
 
   <p align="center">
     <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
-      <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail SVG" />
+      <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin: 0 8px;" alt="Gmail SVG" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn SVG" />
+      <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin: 0 8px;" alt="LinkedIn SVG" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile">
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub SVG" />
+      <img src="https://skillicons.dev/icons?i=github" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin: 0 8px;" alt="GitHub SVG" />
     </a>
   </p>
 
@@ -262,24 +260,6 @@ mindmap
 ---
 
 <div align="center">
-
-  ### 🤝 Let's Connect & Build Together!
-
-  <p align="center">
-    <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
-      <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail SVG" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn SVG" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub SVG" />
-    </a>
-  </p>
-
-  <br/>
 
   <!-- Visitor Count -->
   <img src="https://komarev.com/ghpvc/?username=rajatmaurya-cs&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
