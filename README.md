@@ -16,7 +16,9 @@
 
 <p align="left">
   <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat"><img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="Gmail" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile"><img src="https://skillicons.dev/icons?i=github" width="52" height="52" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="GitHub" /></a>
 </p>
 
