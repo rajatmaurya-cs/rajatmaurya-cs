@@ -1,11 +1,14 @@
 <a href="https://github.com/rajatmaurya-cs">
-  <img align="right" src="./assets/coding.svg" width="460" alt="Coding Illustration" />
+  <img align="right" src="./assets/coding.svg" width="580" alt="Coding Illustration" style="margin-left: 20px;" />
 </a>
+
+<br/>
 
 # 👋 Hi, I'm **Rajat Maurya**
 
-### ⚡ Backend Engineer | Event-Driven Systems | Kafka, Redis & BullMQ
+### ⚡ Backend Engineer | Event-Driven Systems <br/> ⚙️ Kafka, Redis & BullMQ
 
+<br/>
 
 - 💼 **Frontend Developer Intern** @ **SmallFare**
 - 🚀 Creator of **Veyra** — AI-Powered Creator Platform
@@ -14,9 +17,9 @@
 <br/>
 
 <p align="left">
-  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="LinkedIn" /></a>
-  <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="GitHub" /></a>
+  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat"><img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="LinkedIn" /></a>
+  <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile"><img src="https://skillicons.dev/icons?i=github" width="52" height="52" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="GitHub" /></a>
 </p>
 
 <br clear="both"/>
@@ -25,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full Stack Engineer** and **Frontend Developer** with strong expertise in building scalable, secure, and performant production applications. Focused on **Next.js**, **React**, **Node.js**, **Redis**, and **AI-powered architectures**, I build systems engineered for high traffic and optimal user experience.
+I am a **Software Engineer** with expertise in **backend engineering**, **distributed systems**, and **full-stack development**. I build scalable, secure, and high-performance applications using **Node.js**, **Express.js**, **Next.js**, **React**, **PostgreSQL**, **Redis**, **Kafka**, and **BullMQ**. My work focuses on designing reliable APIs, event-driven architectures, background job processing, authentication systems, and modern web applications with an emphasis on scalability, reliability, and performance.
 
 - 🎯 **Core Strengths:** Secure Authentication Systems • Testing & QA • Rate Limiting & Caching • AI Content Moderation Pipelines • Role-Based Dashboards • Payment Gateway Integration • Background Job Processing
 - 💼 **Frontend Developer Intern** at **SmallFare** (Apr 2026 – Jul 2026)
