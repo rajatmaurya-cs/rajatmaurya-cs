@@ -1,20 +1,22 @@
-<div align="center">
+<a href="https://github.com/rajatmaurya-cs">
+  <img align="right" src="./assets/coding.svg" width="360" alt="Coding Illustration" />
+</a>
 
-  <h1>Hi, I'm Rajat Maurya 👋</h1>
+# Hi, I'm Rajat Maurya 👋
 
-  <p align="center">
-    <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
-      <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin: 0 8px;" alt="Gmail SVG" />
-    </a>
-    <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin: 0 8px;" alt="LinkedIn SVG" />
-    </a>
-    <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile">
-      <img src="https://skillicons.dev/icons?i=github" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin: 0 8px;" alt="GitHub SVG" />
-    </a>
-  </p>
+<p align="left">
+  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
+    <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin-right: 8px;" alt="Gmail SVG" />
+  </a>
+  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin-right: 8px;" alt="LinkedIn SVG" />
+  </a>
+  <a href="https://github.com/rajatmaurya-cs" target="_blank" title="GitHub Profile">
+    <img src="https://skillicons.dev/icons?i=github" width="46" height="46" style="border-radius: 12px; filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.4)); margin-right: 8px;" alt="GitHub SVG" />
+  </a>
+</p>
 
-</div>
+<br clear="both"/>
 
 <br/>
 
