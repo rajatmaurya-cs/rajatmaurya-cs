@@ -9,7 +9,7 @@
 <br/>
 
 - 💼 **Frontend Developer Intern** @ **SmallFare**
-- 🚀 Creator of **[Veyra](https://veyra-creator-platform.vercel.app/Home)** — AI-Powered Creator Platform
+- 🚀 Creator of **Veyra** ([Live Now](https://veyra-creator-platform.vercel.app/Home)) — AI-Powered Creator Platform
 - 🧩 **250+ DSA Problems Solved** on LeetCode
 
 <br/>
@@ -30,7 +30,7 @@ I am a **Software Engineer** with expertise in **backend engineering**, **distri
 
 - 🎯 **Core Strengths:** Secure Authentication Systems • Testing & QA • Rate Limiting & Caching • AI Content Moderation Pipelines • Role-Based Dashboards • Payment Gateway Integration • Background Job Processing
 - 💼 **Frontend Developer Intern** at **SmallFare** (Apr 2026 – Jul 2026)
-- 🚀 Created **[Veyra](https://veyra-creator-platform.vercel.app/Home)**, an AI-Powered Creator Platform with 2-layer moderation & subscriptions
+- 🚀 Created **Veyra** ([Live Now](https://veyra-creator-platform.vercel.app/Home)), an AI-Powered Creator Platform with 2-layer moderation & subscriptions
 - 🛡️ Specialized in **Enterprise Security** (JWT rotation, Redis blacklisting, OAuth 2.0, Rate Limiting)
 - ⚙️ Deep understanding of **Async Architecture** (Kafka, BullMQ, Background Job Processing)
 - 🧩 **250+ DSA Problems Solved** on LeetCode (Arrays, Trees, Graphs, DP)
@@ -116,7 +116,7 @@ I am a **Software Engineer** with expertise in **backend engineering**, **distri
 
 <div align="center">
 
-### 🌟 [Veyra — The Home for Modern Creators](https://veyra-creator-platform.vercel.app/Home)
+### 🌟 Veyra — The Home for Modern Creators 🔗 [Live Now](https://veyra-creator-platform.vercel.app/Home)
 
 *Full-Stack Production Blogging & Creator Platform powered by AI, Tiered Rate Limits, Subscriptions & Automated Moderation*
 
