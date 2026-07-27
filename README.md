@@ -1,10 +1,10 @@
 <a href="https://github.com/rajatmaurya-cs">
-  <img align="right" src="./assets/coding.svg" width="460" alt="Coding Illustration" style="margin-left: 20px;" />
+  <img align="right" src="./assets/coding.svg" width="480" alt="Coding Illustration" style="margin-left: 20px;" />
 </a>
 
-# 👋 Hi, I'm **Rajat Maurya**
+<h1 style="border: none;">👋 Hi, I'm <b>Rajat Maurya</b></h1>
 
-### ⚡ Backend Engineer <br/> ⚡ Event-Driven Systems <br/> ⚙️ Kafka, Redis & BullMQ
+### • Backend Engineer <br/> • Event-Driven Systems <br/> • Kafka, Redis & BullMQ
 
 <br/>
 
