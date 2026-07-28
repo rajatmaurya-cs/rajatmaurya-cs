@@ -9,18 +9,40 @@
 <br/>
 
 
-- 🚀 Creator of **Veyra** ([Live Now](https://veyra-creator-platform.vercel.app/Home)) — AI-Powered Creator Platform
+<ul>
+  <li>
+    🚀 Creator of <strong>Veyra</strong>
+    <a href="https://veyra-creator-platform.vercel.app/Home">
+      <img
+        src="https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel&logoColor=white"
+        alt="Live Demo"
+        valign="middle"
+      />
+    </a>
+  </li>
+</ul>
+  
+ <br>
+
 - 🧩 **250+ DSA Problems Solved** on LeetCode
 
 <br/>
 
-<p align="left">
-  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat"><img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="Gmail" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile"><img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" style="border-radius: 16px; border: 2px solid #38bdf8; padding: 6px; background: #0d1117; margin-right: 22px; box-shadow: 0 4px 16px rgba(56, 189, 248, 0.35);" alt="LinkedIn" /></a>
- 
- 
-</p>
+<div style="display:flex; align-items:center; gap:20px;">
+
+  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
+    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" alt="Gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" alt="LinkedIn" />
+  </a>
+
+  <a href="https://leetcode.com/u/Rajat__Maurya/" target="_blank" title="LeetCode Profile">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="52" alt="LeetCode" />
+  </a>
+
+</div>
 
 <br clear="both"/>
 
@@ -42,6 +64,8 @@ I am a **Software Engineer** with expertise in **backend engineering**, **distri
 ---
 
 ## 🛠️ Languages, Skills & Tools
+
+<img align="right" src="./assets/Robot-Bot%203D.svg" width="380" alt="Robot Bot 3D" style="margin-left: 20px;" />
 
 ### 💻 Programming Languages
 <p align="left">
@@ -86,6 +110,7 @@ I am a **Software Engineer** with expertise in **backend engineering**, **distri
   <img src="https://skillicons.dev/icons?i=docker,githubactions,git,postman,vscode,vercel&theme=dark" alt="DevOps SVGs" />
 </p>
 
+<br clear="both"/>
 <br/>
 
 ---
