@@ -28,13 +28,13 @@
 
 <br/>
 
-<div style="display:flex; align-items:center; gap:20px;">
+<div style="display:flex; align-items:center;">
 
-  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
+  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat" style="margin-right:30px;">
     <img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" alt="Gmail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile" style="margin-right:30px;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" alt="LinkedIn" />
   </a>
 
