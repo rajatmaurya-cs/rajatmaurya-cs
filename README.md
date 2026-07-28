@@ -28,21 +28,19 @@
 
 <br/>
 
-<div style="display:flex; align-items:center;">
-
-  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat" style="margin-right:30px;">
+<p>
+  <a href="mailto:rajatmaurya.dev@gmail.com" title="Email Rajat">
     <img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" alt="Gmail" />
   </a>
-
-  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile" style="margin-right:30px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rajat-maurya-3a172331b" target="_blank" title="LinkedIn Profile">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" alt="LinkedIn" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Rajat__Maurya/" target="_blank" title="LeetCode Profile">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="52" alt="LeetCode" />
   </a>
-
-</div>
+</p>
 
 <br clear="both"/>
 
